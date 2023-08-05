@@ -9,7 +9,6 @@
 |![](./icon_svg/reddit.svg)reddit.com|![](./icon_svg/baidu.svg)baidu.com|![](./icon_svg/163.svg)163.com|![](./icon_svg/ctrip.svg)ctrip.com|![](./icon_svg/xing.svg)xing.com|
 |![](./icon_svg/douban.svg)douban.com|![](./icon_svg/dropbox.svg)dropbox.com|![](./icon_svg/dribbble.svg)dribbble.com|![](./icon_svg/aliyun.svg)aliyun.com|![](./icon_svg/ebay.svg)ebay.com|
 |![](./icon_svg/starbucks.svg)starbucks.com|![](./icon_svg/jd.svg)jd.com|![](./icon_svg/sina.svg)sina.com|![](./icon_svg/thetileapp.svg)tile.com|![](./icon_svg/weibo.svg)weibo.com|
-|![](./icon_svg/starbucks.svg)starbucks.com|![](./icon_svg/jd.svg)jd.com|![](./icon_svg/sina.svg)sina.com|![](./icon_svg/thetileapp.svg)tile.com|![](./icon_svg/weibo.svg)weibo.com|
 |![](./icon_svg/xiaomi.svg)xiaomi.com|![](./icon_svg/gitee.svg)gitee.com|![](./icon_svg/12306.svg)12306.com|![](./icon_svg/teambition.svg)teambition.com|![](./icon_svg/linkedin.svg)linkedin.com|
 |![](./icon_svg/adobe.svg)adobe.com|![](./icon_svg/live.svg)live.com|![](./icon_svg/netflix.svg)netflix.com|![](./icon_svg/airbnb.svg)airbnb.com|![](./icon_svg/snapchat.svg)snapchat.com|
 |![](./icon_svg/tumblr.svg)tumblr.com|![](./icon_svg/bet365.svg)bet365.com|  |  |
