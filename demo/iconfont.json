@@ -6,6 +6,69 @@
   "description": "著名互联网标志合集",
   "glyphs": [
     {
+      "icon_id": "37110269",
+      "name": "pornhub",
+      "font_class": "pornhub",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "37110268",
+      "name": "aliexpress",
+      "font_class": "aliexpress",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "37110250",
+      "name": "gmail",
+      "font_class": "gmail",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "37110249",
+      "name": "Disneyplus",
+      "font_class": "disneyplus",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "37110240",
+      "name": "discord",
+      "font_class": "discord",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "37110238",
+      "name": "x",
+      "font_class": "x",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "37110140",
+      "name": "tiktok",
+      "font_class": "tiktok",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "37110139",
+      "name": "redbook",
+      "font_class": "xiaohongshu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "37110138",
+      "name": "pinterest",
+      "font_class": "pinterest",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
       "icon_id": "8395158",
       "name": "adobe",
       "font_class": "adobe1",
